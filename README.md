@@ -241,3 +241,5 @@
 
 ### Note lại các buổi học
 -   Note theo ngày học định dạng YYYYMMDD.md, bao gồm ghi chú và nội dung buổi học
+### WIFI phòng học
+-   PASS: CHAT1020@$
