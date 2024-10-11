@@ -1,0 +1,14 @@
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:3;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:3;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:3;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:3;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+reliable_polling(bot)
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;
+Possible DDoS Attack Detected! Attacker IP: 10.159.21.70"; sid:1000005; rev:2;

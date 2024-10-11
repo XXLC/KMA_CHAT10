@@ -1,0 +1,37 @@
+tings) [0x00000] in <filename unknown>:0 
+  at ZXing.Common.DecodingOptions+ChangeNotifyDictionary`2[TKey,TValue].set_Item (.TKey key, .TValue value) [0x00000] in <filename unknown>:0 
+
+====ERROR OVER====
+
+[10/6/2024 5:06:53 AM][ERROR]
+DEBUG INFORMATION, NOT ERROR | DIALOG | PLAYDIALOG CWKZ_YLXDSW
+
+====ERROR OVER====
+
+[10/6/2024 5:06:53 AM][ERROR]
+DEBUG INFORMATION, NOT ERROR | DIALOG | STOPDIALOG CWKZ_YLXDSW
+
+====ERROR OVER====
+
+[10/6/2024 5:07:02 AM][ERROR]
+DEBUG INFORMATION, NOT ERROR | DIALOG | PLAYDIALOG CWKZ_YLLCC
+
+====ERROR OVER====
+
+[10/6/2024 5:07:02 AM][ERROR]
+DEBUG INFORMATION, NOT ERROR | DIALOG | STOPDIALOG CWKZ_YLLCC
+
+====ERROR OVER====
+
+[10/6/2024 5:07:04 AM][ERROR]
+DEBUG INFO|NOT ERROR: LoadAirWall file: ConfigPrefab/SceneNavi/1005_YY/AirWall/Planes_20104/AirWall_4.bytes
+
+====ERROR OVER====
+
+[10/6/2024 5:07:04 AM][ERROR]
+DEBUG INFO|NOT ERROR: LoadAirWall map = 1005_YY id = 4, (859, 306), (97, 97)
+
+====ERROR OVER====
+
+[10/6/2024 5:07:34 AM][ERROR]
+GetPandoraActInfo - Flop

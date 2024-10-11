@@ -1,0 +1,36 @@
+Dictionary`2[TKey,TValue].set_Item (.TKey key, .TValue value) [0x00000] in <filename unknown>:0 
+
+====ERROR OVER====
+
+[10/5/2024 10:32:07 PM][ERROR]
+#Afk# alert, lastAction: 1728142208. now: 1728142328. duration: 120, map: 20109
+
+====ERROR OVER====
+
+[10/5/2024 10:32:07 PM][ERROR]
+UI.ShowAlert
+
+====ERROR OVER====
+
+[10/5/2024 10:32:19 PM][ERROR]
+DEBUG INFORMATION, NOT ERROR | DIALOG | PLAYDIALOG KF_SGHCC
+
+====ERROR OVER====
+
+[10/5/2024 10:32:19 PM][ERROR]
+DEBUG INFORMATION, NOT ERROR | DIALOG | DoPrepareDialog
+
+====ERROR OVER====
+
+[10/5/2024 10:32:19 PM][ERROR]
+DEBUG INFORMATION, NOT ERROR | DIALOG | STOPDIALOG KF_SGHCC
+
+====ERROR OVER====
+
+[10/5/2024 10:32:31 PM][ERROR]
+[NOT ERROR] Create npc dead. rid:1997630109080971950 player:New Game Object_-6264156_1997630109080971950__10105405_120011_ (Player)
+
+====ERROR OVER====
+
+[10/5/2024 10:32:32 PM][ERROR]
+[QSSceneManager loading progress] 

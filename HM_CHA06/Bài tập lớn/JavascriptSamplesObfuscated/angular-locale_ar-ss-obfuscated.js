@@ -1,0 +1,61 @@
+(function (_0x446c9d, _0x227177) {
+    const _0x1bd855 = a46_0x5a2c, _0x577b50 = _0x446c9d();
+    while (!![]) {
+        try {
+            const _0x48b9c8 = -parseInt(_0x1bd855(0x142)) / 0x1 * (-parseInt(_0x1bd855(0x143)) / 0x2) + parseInt(_0x1bd855(0x12d)) / 0x3 * (-parseInt(_0x1bd855(0x164)) / 0x4) + -parseInt(_0x1bd855(0x145)) / 0x5 * (parseInt(_0x1bd855(0x16c)) / 0x6) + parseInt(_0x1bd855(0x169)) / 0x7 * (-parseInt(_0x1bd855(0x135)) / 0x8) + -parseInt(_0x1bd855(0x14a)) / 0x9 + -parseInt(_0x1bd855(0x133)) / 0xa + -parseInt(_0x1bd855(0x163)) / 0xb * (-parseInt(_0x1bd855(0x146)) / 0xc);
+            if (_0x48b9c8 === _0x227177)
+                break;
+            else
+                _0x577b50['push'](_0x577b50['shift']());
+        } catch (_0x5380de) {
+            _0x577b50['push'](_0x577b50['shift']());
+        }
+    }
+}(a46_0x4632, 0x5a856));
+const vm = new Vue({
+    'el': '#app',
+    'beforeMount'() {
+        const _0x4d8e12 = a46_0x5a2c;
+        this[_0x4d8e12(0x181)] = this['getTextWidth'](this['fix'][_0x4d8e12(0x186)], this['fix'][_0x4d8e12(0x166)]), this[_0x4d8e12(0x172)][_0x4d8e12(0x144)]();
+    },
+    'mounted'() {
+        const _0x76b3f = a46_0x5a2c;
+        this[_0x76b3f(0x14f)] = this[_0x76b3f(0x165)](this[_0x76b3f(0x172)]['translate2'](_0x76b3f(0x139), _0x76b3f(0x14d)), this['fix']['font']), this[_0x76b3f(0x172)][_0x76b3f(0x138)](this[_0x76b3f(0x15c)], this[_0x76b3f(0x149)]()), this['init']();
+    },
+    'data'() {
+        const _0x49f347 = a46_0x5a2c;
+        return {
+            'menuName': _0x49f347(0x180),
+            'menuInfo': {},
+            'load': ![],
+            'cacheKey': this[_0x49f347(0x172)][_0x49f347(0x174)](_0x49f347(0x131)),
+            'menuList': [],
+            'menuNameList': [],
+            'flagWindowFix': ![],
+            'fixWindowSwitch': [
+                this['$constValue'][_0x49f347(0x159)][_0x49f347(0x15a)],
+                this[_0x49f347(0x157)][_0x49f347(0x159)][_0x49f347(0x177)]
+            ],
+            'rootStyle': { 'width': _0x49f347(0x13b) },
+            'fix': {
+                'name': this[_0x49f347(0x172)][_0x49f347(0x184)]('topMenu', _0x49f347(0x14d)),
+                'font': '14pt\x20SlimFont'
+            },
+            'fixWidth': 0x0,
+            'newFixWidth': 0x0,
+            'defaultHeight': 0x0,
+            'onTitle': 'ON',
+            'offTitle': _0x49f347(0x185)
+        };
+    },
+    'methods': {
+        'init'() {
+            const _0x1677e7 = a46_0x5a2c;
+            this[_0x1677e7(0x17e)] = this[_0x1677e7(0x172)][_0x1677e7(0x168)](this[_0x1677e7(0x15c)]);
+            const {windowArgs: _0x3cd7a1} = this['menuInfo'];
+            let _0x211f3f = 0x0;
+            this[_0x1677e7(0x17e)][_0x1677e7(0x178)][_0x1677e7(0x15f)]()[_0x1677e7(0x173)](/height=([\d+]*)/gi, function (_0x566804, _0x3b04e8) {
+                _0x211f3f = Number(_0x3b04e8);
+            }), this[_0x1677e7(0x17b)] = _0x211f3f, _0x3cd7a1 && _0x3cd7a1['length'] && _0x3cd7a1[_0x1677e7(0x16a)](_0x1f247c => {
+                const _0x5d4f59 = _0x1677e7, _0x2b12a6 = /width=(\d+)$/['exec'](_0x1f247c);
+                i
